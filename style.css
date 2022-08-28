@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(235, 209, 209);
+}
+
+#user-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 14px;
+}
+.country{
+    border: 2px solid rgb(68, 68, 55);
+    padding: 20px ;
+    border-radius: 11px;
+
+}
